@@ -1,4 +1,4 @@
-# Python Database Tool
+# Python Database Tool.
 ![db-tool_picture](https://user-images.githubusercontent.com/109839230/193442516-6b15c7bf-87fb-43db-80bf-b7ce6f0563d3.png)
 
 this is a python script to access the database and its use is to input, view the database, delete and others like mysql, only in python it is simplified in python.
