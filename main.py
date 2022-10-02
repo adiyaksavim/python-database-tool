@@ -6,6 +6,7 @@
 # To speed up the project database tool.
 # ================= Thanks You For Using My Project.
 
+
 # ! Dont Forget Pip Install This !
 # pip install mysql-connector-python
 # pip install art
