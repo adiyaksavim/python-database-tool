@@ -40,3 +40,4 @@ You can join this project collaboration to make the project easier and speed up 
 
 ### Developer 
 - Adiyaksa
+- Rizky Wijaya
